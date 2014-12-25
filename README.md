@@ -1,4 +1,4 @@
 buchitama.github.io
 ===================
 
-samle
+sample
